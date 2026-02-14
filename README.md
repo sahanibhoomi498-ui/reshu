@@ -1,1 +1,6 @@
 # reshu
+
+
+hiee
+cd
+ls
