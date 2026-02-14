@@ -4,3 +4,6 @@
 hiee
 cd
 ls
+hiee
+hello
+bhoomi
